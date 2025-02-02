@@ -5,7 +5,6 @@ import datetime
 import subprocess
 from colorama import Fore, init
 
-# Inisialisasi warna terminal
 init(autoreset=True)
 YELLOW = Fore.YELLOW
 RED = Fore.RED
